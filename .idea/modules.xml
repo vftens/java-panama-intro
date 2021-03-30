@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adder/adder.iml" filepath="$PROJECT_DIR$/adder/adder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monty/monty.iml" filepath="$PROJECT_DIR$/monty/monty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mover/mover.iml" filepath="$PROJECT_DIR$/mover/mover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorter/sorter.iml" filepath="$PROJECT_DIR$/sorter/sorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/totalizer/totalizer.iml" filepath="$PROJECT_DIR$/totalizer/totalizer.iml" />
+    </modules>
+  </component>
+</project>
